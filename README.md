@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Aprendendo contantemente: Java, MySQL, Lógica, Inglês, Vida, e Deus<br>🎯 Objetivos: Servir, Aprender, Me Superar e Viver<br>💻 Estudo: Ciência da Computação</p>
+<p align="left">📚 Aprendendo contantemente: Java, MySQL, Lógica, Inglês, Vida e Deus<br>🎯 Objetivos: Servir, Aprender, Me Superar e Viver<br>💻 Estudo: Ciência da Computação</p>
 
 ###
 
